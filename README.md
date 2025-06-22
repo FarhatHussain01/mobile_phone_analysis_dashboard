@@ -39,7 +39,8 @@ The dashboard provides deep insights into:
 ```
 ├── README.md
 ├── Mobile Sales Dashboard.png
-└── [Power BI (.pbix) file if available]
+└── [Power BI (.pbix) file
+
 ```
 
 ## 🚀 How to Use
