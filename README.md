@@ -32,7 +32,7 @@ The dashboard provides deep insights into:
 
 ## 📸 Dashboard Preview
 
-![Mobile Sales Dashboard Preview](Mobile%20Sales%20Dashboard.png)
+![Mobile Sales Dashboard Preview](https://drive.google.com/file/d/1pm7szd487L6yETTWWZ6JpIjKxfIBVUX7/view?usp=sharing)
 
 ## 📂 Repository Structure
 
